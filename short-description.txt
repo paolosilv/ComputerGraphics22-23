@@ -1,0 +1,3 @@
+The project was developed with Blender and the video was edited with Veed.
+
+The work is an animation of the Ferrari 812 Superfast.
